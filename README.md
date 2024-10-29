@@ -43,7 +43,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 17.Test with new input data and print predictions.
 
 18.Print accuracy and predictions.
-```
+
 
 ## Program:
 ```
