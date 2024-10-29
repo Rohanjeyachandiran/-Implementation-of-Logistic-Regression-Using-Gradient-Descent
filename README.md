@@ -9,23 +9,41 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1.Import necessary libraries (pandas, numpy, matplotlib).
+
 2.Load dataset from 'Placement_Data.csv' using Pandas Library.
+
 3.Drop unnecessary columns ('sl_no', 'salary').
+
 4.Convert categorical variables to category data type.
+
 5.Encode categorical variables to numerical values.
+
 6.Set features X (all columns except 'status').
+
 7.Set target variable Y (column 'status').
+
 8.Initialize weights theta randomly.
+
 9.Define sigmoid function.
+
 10.Define loss function.
+
 11.Implement gradient descent function.
+
 12.Compute predicted probabilities.
+
 13.Update weights using gradients.
+
 14.Train the model by calling gradient descent function.
+
 15.Define prediction function.
+
 16.Evaluate the model by calculating accuracy.
+
 17.Test with new input data and print predictions.
+
 18.Print accuracy and predictions.
+```
 
 ## Program:
 ```
